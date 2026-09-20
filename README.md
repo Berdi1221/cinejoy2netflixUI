@@ -2,7 +2,7 @@
 
 > Transform the default Cinejoy layout into a sleek, modern, desktop and mobile Netflix-inspired interface.
 
-A custom Tampermonkey user script designed to completely overhaul the visual presentation of **Cinejoy.to** and **Cinejoy.pk**. It replaces the default site structure with a clean, immersive dark theme, responsive navigation rails, custom iconography, and full-bleed content layouts inspired by Netflix.
+A custom Tampermonkey user script designed to completely overhaul the visual presentation of **Cinejoy.to**. It replaces the default site structure with a clean, immersive dark theme, responsive navigation rails, custom iconography, and full-bleed content layouts inspired by Netflix.
 
 ---
 
@@ -33,13 +33,6 @@ Compare the default layout with the revamped Netflix-style experience:
 
 ---
 
-## 🌐 Supported Domains
-
-The script natively matches and executes on:
-* `https://cinejoy.to/*`
-* `https://cinejoy.pk/*`
-
----
 
 ## 🚀 Installation Guide
 
@@ -51,14 +44,9 @@ Make sure you have a compatible userscript manager installed in your browser:
 ### Installation Options
 
 #### Option A: Direct via Greasy Fork (Easiest)
-1. Head over to the official **[Greasy Fork Page](https://greasyfork.org/)** *(Replace with your script link)*.
+1. Head over to the official **[Greasy Fork Page](https://greasyfork.org/en/scripts/596606)**
 2. Click the green **Install this script** button.
 3. Confirm the installation when prompted by Tampermonkey.
-
-#### Option B: Direct via Raw GitHub Link
-1. Click the link below to open the raw user script file:
-   👉 **[Install Cinejoy to Netflix UI](https://raw.githubusercontent.com/Berdi1221/cinejoy2netflixUI/main/Cinejoy%20to%20Netflix%20UI-1.0.0.user.js)**
-2. Tampermonkey will automatically detect the `.user.js` header and prompt you to install it.
 
 ---
 
