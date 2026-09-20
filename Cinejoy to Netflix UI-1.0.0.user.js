@@ -8,8 +8,8 @@
 // @match        *://cinejoy.to/*
 // @match        *://cinejoy.pk/*
 // @grant        GM_addStyle
-// @updateURL    https://raw.githubusercontent.com/YourUsername/YourRepo/main/cinejoy-to-netflix.user.js
-// @downloadURL  https://raw.githubusercontent.com/YourUsername/YourRepo/main/cinejoy-to-netflix.user.js
+// @updateURL    https://github.com/Berdi1221/cinejoy2netflixUI/raw/refs/heads/main/Cinejoy%20to%20Netflix%20UI-1.0.0.user.js
+// @downloadURL  https://github.com/Berdi1221/cinejoy2netflixUI/raw/refs/heads/main/Cinejoy%20to%20Netflix%20UI-1.0.0.user.js
 // ==/UserScript==
 
 (function() {
